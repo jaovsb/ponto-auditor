@@ -41,7 +41,7 @@ Diferente de calculadoras de tempo comuns, este projeto foi construído com foco
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/ponto-auditor.git](https://github.com/seu-usuario/ponto-auditor.git)
+    git clone [https://github.com/jaovsb/ponto-auditor.git](https://github.com/jaovsb/ponto-auditor.git)
     ```
 2.  **Instale as dependências:**
     ```bash
@@ -67,4 +67,4 @@ Para demonstrar maturidade técnica, utilizei:
 
 **João Victor Silva Barros** *Graduado em ADS | Desenvolvedor Front-end em ascensão*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaovsb)
