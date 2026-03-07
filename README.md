@@ -7,15 +7,6 @@
 
 O **Ponto Auditor** é uma ferramenta de alta performance desenvolvida para simplificar a auditoria de banco de horas. Criada para resolver a complexidade de somar e subtrair períodos de tempo que extrapolam as 8h de trabalho convencionais, unindo precisão matemática com uma interface moderna e intuitiva.
 
----
-
-## 📺 Preview
-
-> [!TIP]
-> **Adicione aqui um GIF ou Screenshot do seu projeto rodando!** (Isso aumenta em 80% as chances de um recrutador olhar seu repositório).
-
----
-
 ## ✨ Diferenciais de Engenharia & UX
 
 Diferente de calculadoras de tempo comuns, este projeto foi construído com foco em **usabilidade de nível empresarial**:
