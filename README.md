@@ -49,13 +49,13 @@ Diferente de calculadoras de tempo comuns, este projeto foi construído com foco
 
 Para demonstrar maturidade técnica, utilizei:
 - **Imutabilidade:** Atualização de estado usando padrões de cópia de array (`...spread`).
-- **Hooks Avançados:** `useState`, `useMemo` e `useCallback` para otimização de renderização.
+- **Hooks Avançados:** `useState` e `useMemo` para otimização de renderização.
 - **TypeScript Generics:** Tipagem estrita em funções de atualização para evitar o uso de `any`.
 
 ---
 
 ### 👨‍💻 Autor
 
-**João Victor Silva Barros** *Graduado em ADS | Desenvolvedor Front-end em ascensão*
+**João Victor Silva Barros** *Graduado em ADS | Desenvolvedor em ascensão*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaovsb)
